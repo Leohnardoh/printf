@@ -1,6 +1,6 @@
 # _printf :
 
-A project on printf function created by Okhueleigbe Leonard and Christopher OCEN for ALX software engineering school.
+A group project on printf function created by Okhueleigbe Leonard and Christopher OCEN for ALX software engineering school.
 ## Dependencies :
 
 The `_printf` function was coded on an Ubuntu 14.04 LTS machine with `gcc` version 4.8.4.
