@@ -4,7 +4,7 @@
  * @arguments: input string
  * @buf: buffer pointer
  * @ibuf: index for buffer pointer
- * Return: number of chars printed
+ * Return: the number of chars printed
  */
 int print_hex(va_list arguments, char *buf, unsigned int ibuf)
 {
