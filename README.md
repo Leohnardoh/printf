@@ -473,8 +473,8 @@ Output:
 
 ## Authors :
 
-* Okhueleigbe Leonard <[Leohnardoh](https://github.com/Leohnardoh)>
-* Christopher OCEN <[chrisjrocen](https://github.com/chrisjrocen)>
+1. Okhueleigbe Leonard <[Leohnardoh](https://github.com/Leohnardoh)> 
+2. Christopher OCEN <[chrisjrocen](https://github.com/chrisjrocen)>
 
 ## Acknowledgements :
 
