@@ -411,7 +411,7 @@ Output:
 %
 ```
 
-## More Examples :thumbsup:
+## More Examples :
 
 To print the address of Holberton School in the format "972 Mission St., San
 Francisco, CA 94103" where *street*, *city* and *state* are pointers to strings:
@@ -471,7 +471,7 @@ Output:
 -9223372036854775808           -> LONG_MIN
 ```
 
-## Authors :black_nib:
+## Authors :
 
 * Okhueleigbe Leonard <[Leohnardoh](https://github.com/Leohnardoh)>
 * Christopher OCEN <[chrisjrocen](https://github.com/chrisjrocen)>
