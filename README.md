@@ -8,7 +8,7 @@ The `_printf` function was coded on an Ubuntu 14.04 LTS machine with `gcc` versi
 ## Usage :
 
 To use the `_printf` function, assuming the above dependencies have been installed,
-compile all `.c` files in the repository and include the header `main.h` with
+compile all `.c` files in the repository and include the header `main.h` file with
 any main function.
 
 Example `main.c`:
